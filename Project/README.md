@@ -15,5 +15,8 @@ The project is a complete Python application that can be executed from the comma
 1. Open a terminal in this folder
 2. Run the program using:
    ```bash
-   python3 app.py <filename>
+   python3 task1.py or
+   python3 task2.py
+
+
 
