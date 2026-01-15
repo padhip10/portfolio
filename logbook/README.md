@@ -1,20 +1,20 @@
 # Logbook
 
 ## Overview
-This folder contains the weekly logbook entries for the module.  
-The logbook documents my learning progress, practical tasks, and reflections completed throughout the course.
+This folder contains logbook entries for a weekly period of the module.
+The logbook also signifies my learning process, activities, and reflections undertaken during this course period.
 
 ## Contents
-- Weekly records of lectures and lab sessions
+- Weekly records of lecture and lab meetings
 - Notes on concepts learned
 - Reflections on challenges and solutions
-- Evidence of continuous learning and improvement
+- Evidence for improvement through continued learning
 
 ## Purpose
-The purpose of this logbook is to:
-- Track my academic progress
-- Demonstrate consistent engagement with the module
-- Reflect on problem-solving approaches and skills gained
+The objectives of this logbook are to:
+- Monitor my progress at school
+- Evidence of regular engagement with your module
+- Think about problem-solving strategies, skills acquired
 
 ## Tools & Technologies
 - Python
